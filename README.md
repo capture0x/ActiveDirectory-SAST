@@ -673,7 +673,7 @@ These Sysmon event IDs are referenced across multiple rules. Use a comprehensive
 
 <div align="center">
 
-**ADRedTeam SAST Rules** · Built for Blue Teams · Powered by tmrswrr Research
+**ActiveDirectory SAST Rules** ·  Powered by tmrswrr Research
 
 [Report an Issue](https://github.com/capture0x/ActiveDirectory-SAST/issues) · [MITRE ATT&CK](https://attack.mitre.org)
 
